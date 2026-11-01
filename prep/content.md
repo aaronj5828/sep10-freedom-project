@@ -11,7 +11,7 @@ Topic: Mental Health Apps
 ## Part A: existing technology
 
 ##### Software
-* headspace
+* Headspace
   * It is an app for meditation and relaxation.
   * It has guided meditation videos and audio.
   * It teaches people how to relax.
@@ -23,9 +23,15 @@ Topic: Mental Health Apps
   * [Here are the website](https://www.headspace.com)
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* Smartphone / Tablet
+  * Examples: iPhone, iPad, and Samsung.
+  * They allow people to download mental health apps.
+  * People can listen to relaxing music.
+  * They can watch videos and follow exercises.
+  * They have speakers for guided meditation.
+  * They use Wi-Fi or mobile data to connect to apps.
+  * They have touchscreens that make apps easy to use.
+  * 
 
 ## Part B: possible future technology
 * Idea
