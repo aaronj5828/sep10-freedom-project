@@ -31,8 +31,18 @@ Topic: Mental Health Apps
   * They have speakers for guided meditation.
   * They use Wi-Fi or mobile data to connect to apps.
   * They have touchscreens that make apps easy to use.
-  * 
+    
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* AI Mental Health Assistant
+  * An app that uses artificial intelligence (AI).
+  * It could give people personalized relaxation activities.
+  * It could suggest exercises based on their feelings.
+  * It could help people track their moods.
+  * It could notice changes in sleep habits.
+  * It could give reminders to take breaks.
+  * It could help people find professional support.
+  * It could work with smartwatches.
+  * It could make mental health support easier to access.
+  * It would need strong privacy and safety rules.
+  * It would not replace doctors or therapists.
