@@ -35,7 +35,7 @@ Topic: Mental Health Apps
 
 ## Part B: possible future technology
 * AI Mental Health Assistant
-  * An app that uses artificial intelligence (AI).
+  * An app that uses artificial intelligence.
   * It could give people personalized relaxation activities.
   * It could suggest exercises based on their feelings.
   * It could help people track their moods.
