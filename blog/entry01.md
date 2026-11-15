@@ -8,15 +8,15 @@ I chose to learn about Mechanical Engineering. I chose this topic because I am i
 My other ideas were learning about Civil Engineering and Electrical Engineering. I chose Mechanical Engineering because I think it is interesting to learn how machines work and how things are built.
 
 # Sources
-* [MIT Mechanical Engineering](https://meche.mit.edu/) - Learn about Mechanical Engineering.
-* [Scratch](https://scratch.mit.edu/) to make games.
-* [Unity Learn](https://learn.unity.com/) learn to learn game making.
+* [MIT Mechanical Engineering](https://meche.mit.edu/) Learn about Mechanical Engineering.
+* [NASA](https://www.nasa.gov/) Learn about machines and space technology.
+* [Engineering.com](https://www.engineering.com/) Learn about engineering and machines.
 
 # EDP and Skills
-I will plan my game and test it to find problems. I will use coding and creative thinking to make my game better.
+I will use the Engineering Design Process to learn how engineers solve problems. I will research Mechanical Engineering and learn how machines are designed. I will practice solving problems and creative thinking. I will also learn how to plan and improve my ideas.
 
 # Next Steps
-I will learn the basics of coding and start making my game.
+My next step is to learn more about Mechanical Engineering. I will research how machines work and what Mechanical Engineers do. I also want to learn about the tools and skills they use in their jobs.
 
 [Next](entry02.md)
 
