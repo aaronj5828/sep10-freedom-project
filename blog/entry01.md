@@ -2,13 +2,13 @@
 ##### 10/23/26
 
 # My Topic
-I chose to learn how to make my own video game. I like technology and want to learn how games are made. I also want to learn more about coding and make my own game.
+I chose to learn about Mechanical Engineering. I chose this topic because I am interested in machines and technology. I want to learn how machines work and how engineers design and build things. I also want to learn what skills I need to become a Mechanical Engineer in the future.
 
 # My Backup Ideas
-My other ideas were making a website or a mobile app. I chose video games because they look fun and let me be creative.
+My other ideas were learning about Civil Engineering and Electrical Engineering. I chose Mechanical Engineering because I think it is interesting to learn how machines work and how things are built.
 
 # Sources
-* [Code.org](https://code.org/) to learn coding.
+* [MIT Mechanical Engineering](https://meche.mit.edu/) - Learn about Mechanical Engineering.
 * [Scratch](https://scratch.mit.edu/) to make games.
 * [Unity Learn](https://learn.unity.com/) learn to learn game making.
 
