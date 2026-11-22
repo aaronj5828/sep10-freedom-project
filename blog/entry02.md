@@ -1,7 +1,8 @@
 # Entry 2
-##### X/X/XX
+##### 11/23/26
 
-Text
+#Content
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
